@@ -1,0 +1,77 @@
+﻿@model MissingPersonIdentificationSystem.Models.MissingPersonViewModel
+
+@{
+    ViewData["Title"] = "Report Missing Person";
+}
+
+
+<link rel="stylesheet" href="~/css/ReportMissingPerson.css" asp-append-version="true">
+
+
+<main>
+    <div class="containers">
+        <h2><u>Report Missing Person</u></h2>
+        <form asp-action="ReportMissingPerson" method="post" enctype="multipart/form-data" id="report-form">
+            <div>
+                <h4>Missing Person Data:</h4>
+                <div class="row">
+                    <div class="col form-group">
+                        @* <label asp-for="MissingPersonName"></label> *@
+                        <input asp-for="MissingPersonName" class="form-control" placeholder="Enter the full name" />
+                        <span asp-validation-for="MissingPersonName" class="text-danger"></span>
+                    </div>
+                    <div class="col form-group">
+                        @* <label asp-for="MissingPersonFatherName"></label> *@
+                        <input asp-for="MissingPersonFatherName" class="form-control" placeholder="Enter the father name" />
+                        <span asp-validation-for="MissingPersonFatherName" class="text-danger"></span>
+                    </div>
+                    <div class="col form-group">
+                        @* <label asp-for="MissingPersonGender"></label> *@
+                        <input asp-for="MissingPersonGender" class="form-control" placeholder="Enter the gender" />
+                        <span asp-validation-for="MissingPersonGender" class="text-danger"></span>
+                    </div>
+                </div>
+                <div class="form-group buttons">
+                    @* <label asp-for="MissingPersonPhoto"></label> *@
+                    <button type="button" id="upload-photo">Upload Photo</button>
+                    <input asp-for="MissingPersonPhoto" type="file" class="form-control" style="display: none;" />
+                    <span asp-validation-for="MissingPersonPhoto" class="text-danger"></span>
+                </div>
+                <img id="photo-preview" alt="Photo Preview" style="display: none; margin-top: 10px;">
+            </div>
+
+            <div>
+                <h4>Family Member Data:</h4>
+                <div class="row">
+                    <div class="col form-group">
+                        @* <label asp-for="FamilyMemberName"></label> *@
+                        <input asp-for="FamilyMemberName" class="form-control" placeholder="Enter your name" readonly="readonly" />
+                        <span asp-validation-for="FamilyMemberName" class="text-danger"></span>
+                    </div>
+                    <div class="col form-group">
+                        @* <label asp-for="FamilyMemberEmail"></label> *@
+                        <input asp-for="FamilyMemberEmail" class="form-control" placeholder="Enter your email" readonly="readonly" />
+                        <span asp-validation-for="FamilyMemberEmail" class="text-danger"></span>
+                    </div>
+                    <div class="col form-group">
+                        @* <label asp-for="FamilyMemberPhone"></label> *@
+                        <input asp-for="FamilyMemberPhone" class="form-control" placeholder="Enter your phone number" readonly="readonly" />
+                        <span asp-validation-for="FamilyMemberPhone" class="text-danger"></span>
+                    </div>
+                    <div class="col form-group">
+                        @* <label asp-for="FamilyMemberAddress"></label> *@
+                        <input asp-for="FamilyMemberAddress" class="form-control" placeholder="Enter your address" readonly="readonly" />
+                        <span asp-validation-for="FamilyMemberAddress" class="text-danger"></span>
+                    </div>
+                </div>
+            </div>
+
+            <div class="form-group">
+                <button type="submit" class="btn btn-primary">Submit</button>
+            </div>
+        </form>
+    </div>
+</main>
+
+<script src="~/js/ReportMissingPerson.js" asp-append-version="true"></script>
+

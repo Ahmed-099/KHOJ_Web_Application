@@ -1,0 +1,217 @@
+﻿/* General Styles */
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+}
+
+.dashboard-container {
+    display: flex;
+    min-height: 100vh;
+}
+
+h2 {
+    color: #007d7c;
+    font-weight: revert;
+}
+
+/* Sidebar Styles */
+.sidebar {
+    width: 250px;
+    background-color: #2c3e50;
+    color: #fff;
+    display: flex;
+    flex-direction: column;
+    box-shadow: 2px 0 5px rgba(0, 0, 0, 0.1);
+}
+
+.sidebar-header {
+    padding: 20px;
+    text-align: center;
+    background-color: #1a252f;
+    border-bottom: 1px solid #34495e;
+}
+
+    .sidebar-header h2 {
+        margin: 0;
+        font-size: 24px;
+        font-weight: 600;
+        color: #fff;
+    }
+
+.sidebar-menu {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    flex: 1;
+}
+
+    .sidebar-menu li {
+        padding: 12px 20px;
+        border-bottom: 1px solid #34495e;
+        transition: all 0.3s ease;
+        cursor: pointer;
+    }
+
+        .sidebar-menu li a {
+            color: #fff;
+            text-decoration: none;
+            display: flex;
+            align-items: center;
+            font-size: 16px;
+            transition: all 0.3s ease;
+        }
+
+            .sidebar-menu li a i {
+                margin-right: 12px;
+                font-size: 18px;
+                width: 24px;
+                text-align: center;
+                transition: all 0.3s ease;
+            }
+
+        /* Hover Effects */
+        .sidebar-menu li:hover {
+            background-color: #34495e;
+        }
+
+            .sidebar-menu li:hover a {
+                color: #4fd1c5;
+            }
+
+                .sidebar-menu li:hover a i {
+                    color: #4fd1c5;
+                }
+
+        /* Active Menu Item */
+        .sidebar-menu li.active {
+            background-color: #34495e;
+            border-left: 4px solid #4fd1c5;
+        }
+
+            .sidebar-menu li.active a {
+                color: #4fd1c5;
+            }
+
+                .sidebar-menu li.active a i {
+                    color: #4fd1c5;
+                }
+
+/* Main Content Styles */
+.main-content {
+    flex: 1;
+    padding: 20px;
+    background-color: #fff;
+}
+
+/* Header Styles */
+.header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px 20px;
+    /*background-color: #fff;*/
+    background-color: #007d7c;
+    box-shadow: 0 1px 3px #007d7c;
+}
+
+.header-left h1 {
+    margin: 0;
+    font-size: 24px;
+    color: white;
+}
+
+.header-right {
+    display: flex;
+    align-items: center;
+}
+
+/* User Dropdown Menu */
+.user-dropdown {
+    position: relative;
+}
+
+.user-dropbtn {
+    background-color: #2c3e50;
+    color: #fff;
+    padding: 10px 15px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+}
+
+    .user-dropbtn i {
+        margin-right: 5px;
+    }
+
+.user-dropdown-content {
+    display: none;
+    position: absolute;
+    right: 0;
+    background-color: #fff;
+    min-width: 160px;
+    box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2);
+    z-index: 1;
+    border-radius: 5px;
+}
+
+    .user-dropdown-content a {
+        color: #333;
+        padding: 12px 16px;
+        text-decoration: none;
+        display: block;
+    }
+
+        .user-dropdown-content a:hover {
+            background-color: #f1f1f1;
+        }
+
+.user-dropdown:hover .user-dropdown-content {
+    display: block;
+}
+
+/* Content Styles */
+.content {
+    background-color: #f9f9f9;
+    padding: 20px;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    margin-top: 20px;
+}
+
+/* Responsive Styles */
+@media (max-width: 768px) {
+    .sidebar {
+        width: 100%;
+        height: auto;
+        position: relative;
+    }
+
+    .sidebar-menu li {
+        padding: 10px 15px;
+    }
+
+    .dashboard-container {
+        flex-direction: column;
+    }
+
+    .main-content {
+        padding: 15px;
+    }
+
+    .header {
+        flex-direction: column;
+        align-items: flex-start;
+    }
+
+    .header-right {
+        margin-top: 10px;
+    }
+
+    .user-dropdown-content {
+        right: auto;
+        left: 0;
+    }
+}

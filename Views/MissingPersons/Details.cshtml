@@ -1,0 +1,54 @@
+﻿@model MissingPersonIdentificationSystem.Models.MissingPerson
+
+@{
+    ViewData["Title"] = "Details";
+    Layout = "~/Views/Shared/_LayoutAdmin.cshtml";
+}
+
+<link rel="stylesheet" href="~/css/Admin.css" asp-append-version="true">
+
+<div class="content">
+    <h1>Details</h1>
+
+    <div>
+        <h4>MissingPerson</h4>
+        <hr />
+        <dl class="row">
+            <dt class="col-sm-2">
+                @Html.DisplayNameFor(model => model.Name)
+            </dt>
+            <dd class="col-sm-10">
+                @Html.DisplayFor(model => model.Name)
+            </dd>
+            <dt class="col-sm-2">
+                @Html.DisplayNameFor(model => model.FatherName)
+            </dt>
+            <dd class="col-sm-10">
+                @Html.DisplayFor(model => model.FatherName)
+            </dd>
+            <dt class="col-sm-2">
+                @Html.DisplayNameFor(model => model.Gender)
+            </dt>
+            <dd class="col-sm-10">
+                @Html.DisplayFor(model => model.Gender)
+            </dd>
+            <dt class="col-sm-2">
+                @* @Html.DisplayNameFor(model => model.PhotoPath) *@
+                Photo
+            </dt>
+            <dd class="col-sm-10">
+                @* @Html.DisplayFor(model => model.PhotoPath) *@
+                <img src="@Html.DisplayFor(model => model.PhotoPath)" alt="Image Not Found" style="width:100px; height:100px;" />
+            </dd>
+            @*  <dt class="col-sm-2">
+                @Html.DisplayNameFor(model => model.FamilyMember)
+            </dt>
+            <dd class="col-sm-10">
+                @Html.DisplayFor(model => model.FamilyMember.Id)
+            </dd> *@
+        </dl>
+    </div>
+    <div>
+        <a asp-action="Index" class="btn btn-secondary">Back to List</a>
+    </div>
+</div>

@@ -1,0 +1,64 @@
+﻿@model MissingPersonIdentificationSystem.Models.FoundPersonViewModel
+
+@{
+    ViewData["Title"] = "Edit Found Person Report";
+}
+
+<br />
+<br />
+<h2>Edit Found Person Report</h2>
+
+<form asp-action="EditFoundPerson" method="post" enctype="multipart/form-data">
+    <!-- Hidden field for the report Id -->
+    <input type="hidden" asp-for="Id" />
+
+    <div class="form-group">
+        <label asp-for="FoundPersonName"></label>
+        <input asp-for="FoundPersonName" class="form-control" />
+        <span asp-validation-for="FoundPersonName" class="text-danger"></span>
+    </div>
+
+    <div class="form-group">
+        <label asp-for="FoundPersonFatherName"></label>
+        <input asp-for="FoundPersonFatherName" class="form-control" />
+        <span asp-validation-for="FoundPersonFatherName" class="text-danger"></span>
+    </div>
+
+    <div class="form-group">
+        <label asp-for="FoundPersonGender"></label>
+        <input asp-for="FoundPersonGender" class="form-control" />
+        <span asp-validation-for="FoundPersonGender" class="text-danger"></span>
+    </div>
+
+    <div class="form-group">
+        <label>Upload New Photo (optional):</label>
+        <input asp-for="FoundPersonPhoto" type="file" class="form-control" />
+        <span asp-validation-for="FoundPersonPhoto" class="text-danger"></span>
+    </div>
+
+    <hr />
+    <h3>Reporter Details (Finder)</h3>
+    <div class="form-group">
+        <label asp-for="FinderName"></label>
+        <input asp-for="FinderName" class="form-control" readonly="readonly" />
+        <span asp-validation-for="FinderName" class="text-danger"></span>
+    </div>
+    <div class="form-group">
+        <label asp-for="FinderEmail"></label>
+        <input asp-for="FinderEmail" class="form-control" readonly="readonly" />
+        <span asp-validation-for="FinderEmail" class="text-danger"></span>
+    </div>
+    <div class="form-group">
+        <label asp-for="FinderPhone"></label>
+        <input asp-for="FinderPhone" class="form-control" readonly="readonly" />
+        <span asp-validation-for="FinderPhone" class="text-danger"></span>
+    </div>
+    <div class="form-group">
+        <label asp-for="FinderAddress"></label>
+        <input asp-for="FinderAddress" class="form-control" readonly="readonly" />
+        <span asp-validation-for="FinderAddress" class="text-danger"></span>
+    </div><br />
+
+    <button type="submit" class="btn btn-primary">Save Changes</button>
+    <a asp-controller="UsersProfile" asp-action="Index" class="btn btn-secondary">Cancel</a>
+</form>

@@ -1,0 +1,75 @@
+﻿@model MissingPersonIdentificationSystem.Models.FoundPersonViewModel
+
+@{
+    ViewData["Title"] = "Report Found Person";
+}
+
+<link rel="stylesheet" href="~/css/ReportFoundPerson.css" asp-append-version="true">
+
+
+<main>
+    <div class="containers">
+        <h2><u>Report Found Person</u></h2>
+        <form asp-action="ReportFoundPerson" method="post" enctype="multipart/form-data" id="report-form">
+            <div>
+                <h4>Found Person Data:</h4>
+                <div class="row">
+                    <div class="col form-group">
+                        @* <label asp-for="FoundPersonName"></label> *@
+                        <input asp-for="FoundPersonName" class="form-control" placeholder="Enter the full name" />
+                        <span asp-validation-for="FoundPersonName" class="text-danger"></span>
+                    </div>
+                    <div class="col form-group">
+                        @* <label asp-for="FoundPersonFatherName"></label> *@
+                        <input asp-for="FoundPersonFatherName" class="form-control" placeholder="Enter the father name" />
+                        <span asp-validation-for="FoundPersonFatherName" class="text-danger"></span>
+                    </div>
+                    <div class="col form-group">
+                        @* <label asp-for="FoundPersonGender"></label> *@
+                        <input asp-for="FoundPersonGender" class="form-control" placeholder="Enter the gender" />
+                        <span asp-validation-for="FoundPersonGender" class="text-danger"></span>
+                    </div>
+                </div>
+                <div class="form-group buttons">
+                    @* <label asp-for="FoundPersonPhoto"></label> *@
+                    <button type="button" id="upload-photo">Upload Photo</button>
+                    <input asp-for="FoundPersonPhoto" type="file" class="form-control" style="display: none;" />
+                    <span asp-validation-for="FoundPersonPhoto" class="text-danger"></span>
+                </div>
+                <img id="photo-preview" alt="Photo Preview" style="display: none; margin-top: 10px;">
+            </div>
+
+            <div>
+                <h4>Finder Data:</h4>
+                <div class="row">
+                    <div class="col form-group">
+                        @* <label asp-for="FinderName"></label> *@
+                        <input asp-for="FinderName" class="form-control" placeholder="Enter your name" readonly="readonly" />
+                        <span asp-validation-for="FinderName" class="text-danger"></span>
+                    </div>
+                    <div class="col form-group">
+                        @* <label asp-for="FinderEmail"></label> *@
+                        <input asp-for="FinderEmail" class="form-control" placeholder="Enter your email" readonly="readonly" />
+                        <span asp-validation-for="FinderEmail" class="text-danger"></span>
+                    </div>
+                    <div class="col form-group">
+                        @* <label asp-for="FinderPhone"></label> *@
+                        <input asp-for="FinderPhone" class="form-control" placeholder="Enter your phone number" readonly="readonly" />
+                        <span asp-validation-for="FinderPhone" class="text-danger"></span>
+                    </div>
+                    <div class="col form-group">
+                        @* <label asp-for="FinderAddress"></label> *@
+                        <input asp-for="FinderAddress" class="form-control" placeholder="Enter your address" readonly="readonly" />
+                        <span asp-validation-for="FinderAddress" class="text-danger"></span>
+                    </div>
+                </div>
+            </div>
+
+            <div class="form-group">
+                <button type="submit" class="btn btn-primary">Submit</button>
+            </div>
+        </form>
+    </div>
+</main>
+
+<script src="~/js/ReportFoundPerson.js" asp-append-version="true"></script>

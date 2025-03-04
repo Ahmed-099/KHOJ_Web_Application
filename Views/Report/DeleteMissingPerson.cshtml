@@ -1,0 +1,26 @@
+﻿@model MissingPersonIdentificationSystem.Models.MissingPerson
+
+@{
+    ViewData["Title"] = "Delete Missing Person Report";
+}
+
+<br />
+<br />
+<h2>Delete Missing Person Report</h2>
+
+<p>Are you sure you want to delete this missing person report?</p>
+
+<div>
+    <p><strong>Missing Person Name:</strong> @Model.Name</p>
+    <p><strong>Father Name:</strong> @Model.FatherName</p>
+    <p><strong>Gender:</strong> @Model.Gender</p>
+    <p><strong>Photo:</strong></p>
+    <img src="@Model.PhotoPath" alt="Photo" style="height:100px;" />
+</div>
+<br />
+
+<form asp-controller="Report" asp-action="DeleteMissingPerson" method="post">
+    <input type="hidden" name="id" value="@Model.Id" />
+    <button type="submit" class="btn btn-danger">Delete</button>
+    <a asp-controller="UsersProfile" asp-action="Index" class="btn btn-secondary">Cancel</a>
+</form>

@@ -1,0 +1,265 @@
+﻿/* Reset some default styles */
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    font-size: 16px;
+    line-height: 1.5;
+    color: #333;
+}
+
+.top-head {
+    background-color: #007d7c;
+    color: #fff;
+    padding: 10px;
+    text-align: center;
+    margin-left: -71px;
+    margin-right: -71px;
+}
+
+    .top-head h1 {
+        font-size: 32px;
+    }
+
+.hero {
+    background-image: url("/img/missed.jpg");
+    background-size: cover;
+    background-position: center;
+    padding: 80px 20px;
+    text-align: center;
+    margin-left: -71px;
+    margin-right: -71px;
+}
+
+.hero-content {
+    background-color: rgba(255, 255, 255, 0.8);
+    border-radius: 10px;
+    padding: 40px;
+    max-width: 600px;
+    margin: 0 auto;
+}
+
+.hero h2 {
+    font-size: 28px;
+    margin-bottom: 20px;
+}
+
+.mid h2 {
+    font-size: 28px;
+    text-align: center;
+}
+
+.hero p {
+    margin-bottom: 30px;
+}
+
+.hero button {
+    background-color: #007d7c;
+    color: #fff;
+    border: none;
+    padding: 12px 30px;
+    font-size: 16px;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.action-item button {
+    background-color: #007d7c;
+    color: #fff;
+    border: none;
+    padding: 12px 30px;
+    font-size: 16px;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.actions {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    margin-top: 40px;
+}
+
+.action-item {
+    background-color: #f1f1f1;
+    border-radius: 10px;
+    padding: 30px 20px;
+    text-align: center;
+    margin: 20px;
+    flex: 0 0 300px;
+}
+
+    .action-item .icon {
+        margin-bottom: 20px;
+    }
+
+    .action-item h3 {
+        font-size: 20px;
+        margin-bottom: 10px;
+    }
+
+    .action-item a {
+        color: #007d7c;
+        text-decoration: none;
+    }
+
+/*footer {
+    background-color: #007d7c;
+    color: #fff;
+    padding: 20px;
+    text-align: center;
+    font-size: 14px;
+    margin-top: 40px;
+}*/
+
+/* Responsive Styles */
+@media (max-width: 768px) {
+    .top-head h1 {
+        font-size: 24px;
+    }
+
+    .hero-content {
+        padding: 30px;
+    }
+
+    .hero h2 {
+        font-size: 24px;
+    }
+
+    .action-item {
+        flex: 0 0 100%;
+        margin: 20px 0;
+    }
+}
+
+
+
+/* Reset some default styles */
+/** {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}*/
+
+/*body {
+    font-family: Arial, sans-serif;
+    font-size: 16px;
+    line-height: 1.5;
+    color: #333;
+}*/
+
+/*.top-head{
+    background-color: #007d7c;
+    color: #fff;
+    padding: 20px;
+    text-align: center;
+}
+
+    .top-head h1 {
+        font-size: 32px;
+    }
+
+.hero {
+    background-image: url('~/img/missed.jpg');
+    background-size: cover;
+    background-position: center;
+    padding: 80px 20px;
+    text-align: center;
+}
+
+.hero-content {
+    background-color: rgba(255, 255, 255, 0.8);
+    border-radius: 10px;
+    padding: 40px;
+    max-width: 600px;
+    margin: 0 auto;
+}
+
+.hero h2 {
+    font-size: 28px;
+    margin-bottom: 20px;
+}
+
+.mid h2 {
+    font-size: 28px;
+    text-align: center;
+}
+
+.hero p {
+    margin-bottom: 30px;
+}
+
+button {
+    background-color: #007d7c;
+    color: #fff;
+    border: none;
+    padding: 12px 30px;
+    font-size: 16px;
+    border-radius: 5px;
+    cursor: pointer;
+}*/
+
+/*.action-item button {
+    background-color: #007d7c;
+    color: #fff;
+    border: none;
+    padding: 12px 30px;
+    font-size: 16px;
+    border-radius: 5px;
+    cursor: pointer;
+}*/
+
+/*.actions {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    margin-top: 40px;
+}
+
+.action-item {
+    background-color: #f1f1f1;
+    border-radius: 10px;
+    padding: 30px 20px;
+    text-align: center;
+    margin: 20px;
+    flex: 0 0 300px;
+}
+
+    .action-item .icon {
+        margin-bottom: 20px;
+    }
+
+    .action-item h3 {
+        font-size: 20px;
+        margin-bottom: 10px;
+    }
+
+    .action-item a {
+        color: #007d7c;
+        text-decoration: none;
+    }*/
+
+/* Responsive Styles */
+/*@media (max-width: 768px) {
+    .top-head h1 {
+        font-size: 24px;
+    }
+
+    .hero-content {
+        padding: 30px;
+    }
+
+    .hero h2 {
+        font-size: 24px;
+    }
+
+    .action-item {
+        flex: 0 0 100%;
+        margin: 20px 0;
+    }
+}*/
+

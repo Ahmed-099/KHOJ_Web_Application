@@ -1,0 +1,95 @@
+﻿@{
+    ViewData["Title"] = "User Profile";
+    // Use ViewBag.ProfileType, or default to "Profile" if it's not set
+    string profileType = ViewBag.ProfileType as string ?? "";
+}
+
+<link rel="stylesheet" href="~/css/UserProfile.css" asp-append-version="true">
+
+<body>
+    <div class="container mt-5">
+        <div class="profile-header">
+            <h2>@(ViewBag.ProfileType as string ?? "") Profile</h2>
+        </div>
+
+        <div class="profile-details">
+            <p><strong>Name:</strong> @ViewBag.UserName</p>
+            <p><strong>Email:</strong> @ViewBag.Email</p>
+            <p><strong>Phone:</strong> @ViewBag.Phone</p>
+        </div>
+
+        @if (profileType == "Family")
+        {
+            <h3 class="mt-4">Your Missing Person Reports</h3>
+            <table class="table">
+                <thead>
+                    <tr>
+                        <th>Missing Person Name</th>
+                        <th>Father Name</th>
+                        <th>Gender</th>
+                        <th>Photo</th>
+                        <th>Actions</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    @foreach (var report in Model)
+                    {
+                        <tr>
+                            <td>@report.Name</td>
+                            <td>@report.FatherName</td>
+                            <td>@report.Gender</td>
+                            <td><img src="@report.PhotoPath" alt="Photo" style="height:100px;" /></td>
+                            <td>
+                                <a asp-controller="Report" asp-action="EditMissingPerson" asp-route-id="@report.Id" class="btn btn-success">Edit</a>
+                                <a asp-controller="Report" asp-action="DeleteMissingPerson" asp-route-id="@report.Id" class="btn btn-danger">Delete</a>
+                            </td>
+                        </tr>
+                    }
+                </tbody>
+            </table>
+        }
+        else if (profileType == "Finder")
+        {
+            <h3 class="mt-4">Your Found Person Reports</h3>
+            <table class="table">
+                <thead>
+                    <tr>
+                        <th>Found Person Name</th>
+                        <th>Father Name</th>
+                        <th>Gender</th>
+                        <th>Photo</th>
+                        <th>Actions</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    @foreach (var report in Model)
+                    {
+                        <tr>
+                            <td>@report.Name</td>
+                            <td>@report.FatherName</td>
+                            <td>@report.Gender</td>
+                            <td><img src="@report.PhotoPath" alt="Photo" style="height:100px; width:130px;" /></td>
+                            <td>
+                                <a asp-controller="Report" asp-action="EditFoundPerson" asp-route-id="@report.Id" class="btn btn-success">Edit</a>
+                                <a asp-controller="Report" asp-action="DeleteFoundPerson" asp-route-id="@report.Id" class="btn btn-danger">Delete</a>
+                            </td>
+                        </tr>
+                    }
+                </tbody>
+            </table>
+        }
+    </div>     
+</body>
+
+
+
+
+
+
+
+
+
+
+
+
+

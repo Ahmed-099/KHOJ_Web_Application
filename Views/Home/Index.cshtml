@@ -1,0 +1,46 @@
+﻿@{
+    ViewData["Title"] = "Home";
+}
+
+<link rel="stylesheet" href="~/css/index.css" asp-append-version="true">
+
+<body>
+    <div class="top-head">
+        <h1>Missing Person Identification System</h1>
+    </div>
+
+    <main>
+        <section class="hero">
+            <div class="hero-content">
+                <h2>Search Missing/Found Person</h2>
+                <p>Use our system to search for a missing/found person.</p>
+                @* <a href="Home/Search"><button>Search</button></a> *@
+                <button onclick="window.location.href='@Url.Action("Index", "Search")'">Search</button>
+            </div>
+        </section>
+        <br>
+        <br />
+        <br />
+        <br />
+        <section class="mid">
+            <h2>Report a Missed/Found Person Request</h2>
+        </section>
+
+        <section class="actions">
+            <div class="action-item">
+                <div class="icon">
+                    <img src="~/img/icon.png" alt="Missing Icon" asp-append-version="true">
+                </div>
+                <h3>Missing Person</h3>
+                <button onclick="window.location.href='@Url.Action("ReportMissingPerson", "Report")'">Report</button>
+            </div>
+            <div class="action-item">
+                <div class="icon">
+                    <img src="~/img/icon.png" alt="Found Icon" asp-append-version="true">
+                </div>
+                <h3>Found Person</h3>
+                <button onclick="window.location.href='@Url.Action("ReportFoundPerson", "Report")'">Report</button>
+            </div>
+        </section>
+    </main>
+</body>

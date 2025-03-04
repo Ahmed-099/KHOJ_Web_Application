@@ -1,0 +1,99 @@
+wwwroot\css\Admin.css
+wwwroot\css\index.css
+wwwroot\css\LayoutHeader.css
+wwwroot\css\LoginAndSignup.css
+wwwroot\css\ReportFoundPerson.css
+wwwroot\css\ReportMissingPerson.css
+wwwroot\css\Result.css
+wwwroot\css\search.css
+wwwroot\css\site.css
+wwwroot\css\UserProfile.css
+wwwroot\favicon.ico
+wwwroot\img\icon.png
+wwwroot\img\missed.jpg
+wwwroot\js\Admin.js
+wwwroot\js\ReportFoundPerson.js
+wwwroot\js\ReportMissingPerson.js
+wwwroot\js\search.js
+wwwroot\js\site.js
+wwwroot\known_faces\Found_Amir_ahmedhingoro48@gmail.com_03218129252.jpg
+wwwroot\lib\bootstrap\dist\css\bootstrap.css
+wwwroot\lib\bootstrap\dist\css\bootstrap.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap.min.css
+wwwroot\lib\bootstrap\dist\css\bootstrap.min.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.css
+wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.min.css
+wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.min.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css
+wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap-grid.min.css
+wwwroot\lib\bootstrap\dist\css\bootstrap-grid.min.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.css
+wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.min.css
+wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.min.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.css
+wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.min.css
+wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.min.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.css
+wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.min.css
+wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.min.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.css
+wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.min.css
+wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.min.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.css
+wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.min.css
+wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.min.css.map
+wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.js
+wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.js.map
+wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.min.js
+wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.min.js.map
+wwwroot\lib\bootstrap\dist\js\bootstrap.esm.js
+wwwroot\lib\bootstrap\dist\js\bootstrap.esm.js.map
+wwwroot\lib\bootstrap\dist\js\bootstrap.esm.min.js
+wwwroot\lib\bootstrap\dist\js\bootstrap.esm.min.js.map
+wwwroot\lib\bootstrap\dist\js\bootstrap.js
+wwwroot\lib\bootstrap\dist\js\bootstrap.js.map
+wwwroot\lib\bootstrap\dist\js\bootstrap.min.js
+wwwroot\lib\bootstrap\dist\js\bootstrap.min.js.map
+wwwroot\lib\bootstrap\LICENSE
+wwwroot\lib\jquery\dist\jquery.js
+wwwroot\lib\jquery\dist\jquery.min.js
+wwwroot\lib\jquery\dist\jquery.min.map
+wwwroot\lib\jquery\LICENSE.txt
+wwwroot\lib\jquery-validation\dist\additional-methods.js
+wwwroot\lib\jquery-validation\dist\additional-methods.min.js
+wwwroot\lib\jquery-validation\dist\jquery.validate.js
+wwwroot\lib\jquery-validation\dist\jquery.validate.min.js
+wwwroot\lib\jquery-validation\LICENSE.md
+wwwroot\lib\jquery-validation-unobtrusive\jquery.validate.unobtrusive.js
+wwwroot\lib\jquery-validation-unobtrusive\jquery.validate.unobtrusive.min.js
+wwwroot\lib\jquery-validation-unobtrusive\LICENSE.txt
+wwwroot\temp\076244ba-67b7-4fca-b4f6-eeb37da33502_Salman Khan.jpg
+wwwroot\temp\24c7c659-297c-466b-ac56-e852296774d1_Akshay.jpg
+wwwroot\temp\24f22806-19f0-4382-b2ab-85ec2b5f3ec2_ShahRukh.jpg
+wwwroot\temp\27139a85-3956-454d-860c-a95c805f765d_Salman Khan.jpg
+wwwroot\temp\29f146fa-cc1a-4119-a772-8165720bf778_Salman Khan.jpg
+wwwroot\temp\342cf289-7dd1-4939-9466-1a13c713ed8e_Salman Khan.jpg
+wwwroot\temp\3a53c99b-f4d3-4d06-8b28-9d89651f81d9_Akshay.jpg
+wwwroot\temp\3a8d8aed-c9fd-4be4-937f-86c705681127_ShahRukh.jpg
+wwwroot\temp\44f6a572-6736-4487-b1a5-1e5c94ec39ac_Salman Khan.jpg
+wwwroot\temp\56a8b981-d5da-43e1-a67b-94ca1c46cb1e_Salman Khan.jpg
+wwwroot\temp\5ea59104-66f6-42eb-ba30-e1564949cce6_Salman Khan.jpg
+wwwroot\temp\6be95c21-8b50-4b3d-ba60-647bbc8480a6_Salman Khan.jpg
+wwwroot\temp\8e493064-48e7-436a-8807-9999101f62e0_ShahRukh.jpg
+wwwroot\temp\902c4e66-071f-4fb0-bdc3-955b6e8027ca_ShahRukh.jpg
+wwwroot\temp\94ea2f4a-b7d4-48f1-a408-f9bfc6901f59_Akshay Kumar.jpg
+wwwroot\temp\b1b6ee36-28ac-43a4-a8a1-c5d1ea95d631_Salman Khan.jpg
+wwwroot\temp\cec3326e-8063-4c0f-8e2e-be47b65ca550_Salman Khan.jpg
+wwwroot\temp\d99bda8c-3ce7-47b5-b63a-73b9a04cebf8_ShahRukh.jpg
+wwwroot\temp\da0a6004-cab2-4669-ac4a-ec229bd724d2_Salman Khan.jpg
+wwwroot\temp\e410bb51-538a-4bc8-8e21-c19ddb5b4f24_Salman Khan.jpg
+wwwroot\temp\fabac1ae-0c40-4310-bcc3-3a265d059ba2_Salman Khan.jpg
+wwwroot\temp\fd0cb512-0e95-4b58-9d28-be7777f45243_Amir.jpg
+wwwroot\uploads\Found_Amir_ahmedhingoro48@gmail.com_03218129252.jpg

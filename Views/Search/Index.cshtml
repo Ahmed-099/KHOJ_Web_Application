@@ -1,0 +1,47 @@
+﻿@{
+    ViewData["Title"] = "Search";
+}
+
+<link rel="stylesheet" href="~/css/search.css" asp-append-version="true">
+
+<body>
+    <main>
+        <div class="containers">
+            <h1>Search Missing/Found Person</h1>
+            <div class="row">
+                <div class="column">
+                    <form asp-action="Recognize" method="post" enctype="multipart/form-data">
+                        <!-- File input (hidden visually but functional) -->
+                        <input type="file" id="imageFile" name="imageFile" required class="hidden-file-input" />
+
+                        <!-- Upload Photo Button -->
+                        <div class="form-group">
+                            <label for="imageFile" style="display: block;">
+                                <button type="button" id="upload-photo">Upload Photo</button>
+                            </label>
+                        </div>
+
+                        <!-- Image Preview -->
+                        <div class="photo-preview">
+                            <img id="photo-preview" alt="Photo Preview" />
+                        </div>
+
+                        <!-- Recognize Button -->
+                        <div class="form-group">
+                            <button type="submit" id="recognize">Recognize</button>
+                        </div>
+                    </form>
+                    @if (ViewBag.Error != null)
+                    {
+                        <p style="color:red;">@ViewBag.Error</p>
+                    }
+                    @if (ViewBag.EmailError != null)
+                    {
+                        <p style="color:red;">@ViewBag.EmailError</p>
+                    }
+                </div>
+            </div>
+        </div>
+    </main>   
+    <script src="~/js/search.js" asp-append-version="true"></script>
+</body>

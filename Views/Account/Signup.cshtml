@@ -1,0 +1,54 @@
+﻿@model MissingPersonIdentificationSystem.Models.User
+@{
+    ViewData["Title"] = "Signup";
+    Layout = "~/Views/Shared/_LayoutHeader.cshtml";
+}
+
+<link rel="stylesheet" href="~/css/LoginAndSignup.css" asp-append-version="true">
+
+<body>
+    <main>
+        <div class="signup-box">
+            <div class="containers">
+                <div class="registration form">
+                    <header>Signup</header>                  
+                    <form asp-controller="Account" asp-action="Signup" method="post">
+                        <div>
+                            <label asp-for="Name">Name:</label>
+                            <input asp-for="Name" required />
+                        </div>
+                        <div>
+                            <label asp-for="Email">Email:</label>
+                            <input asp-for="Email" type="email" required />
+                        </div>
+                        <div>
+                            <label asp-for="PasswordHash">Password:</label>
+                            <input asp-for="PasswordHash" type="password" required />
+                        </div>
+                        <div>
+                            <label asp-for="Phone">Phone Number:</label>
+                            <input asp-for="Phone" required />
+                        </div>
+                        <div>
+                            <label asp-for="Address">Address:</label>
+                            <input asp-for="Address" required />
+                        </div>
+                        <div>
+                            <label asp-for="Role">Role:</label>
+                            <select asp-for="Role" class="form-control">
+                                <option value="Family">Family Member</option>
+                                <option value="Finder">Finder Person</option>
+                            </select>
+                        </div>
+                        <div>
+                            <input type="submit" value="Signup" class="button">
+                        </div>
+                    </form>
+                    <div class="signup">
+                        <span class="signup">Already have an account? <a asp-action="Login">Login here</a></span>
+                    </div>                    
+                </div>
+            </div>     
+        </div>
+    </main>
+</body>

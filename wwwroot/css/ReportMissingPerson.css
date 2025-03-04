@@ -1,0 +1,102 @@
+﻿body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+main .containers {
+    max-width: 800px;
+    margin: 20px auto;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    background-color: #f9f9f9;
+}
+
+h2 {
+    text-align: center;
+    color: teal;
+}
+
+label {
+    font-weight: bold;
+}
+
+.form-group {
+    margin-bottom: 15px;
+}
+
+    .form-group input,
+    .form-group button {
+        width: 100%;
+        padding: 10px;
+        margin-top: 5px;
+        border: 1px solid #ccc;
+        border-radius: 4px;
+    }
+
+    .form-group button {
+        background-color: teal;
+        color: white;
+        cursor: pointer;
+    }
+
+        .form-group button:hover {
+            background-color: darkcyan;
+        }
+
+.row {
+    display: flex;
+    gap: 20px;
+    flex-wrap: wrap;
+}
+
+.col {
+    flex: 1;
+    min-width: 200px;
+}
+
+.buttons {
+    display: flex;
+    gap: 10px;
+}
+
+#photo-preview {
+    margin-top: 10px;
+    width: 100%;
+    max-height: 200px;
+    object-fit: contain;
+}
+
+#video-container {
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    background-color: rgba(0, 0, 0, 0.8);
+    padding: 20px;
+    border-radius: 8px;
+    z-index: 1000;
+    display: none;
+}
+
+    #video-container video {
+        max-width: 100%;
+        border-radius: 8px;
+    }
+
+    #video-container button {
+        margin-top: 10px;
+        width: 100%;
+    }
+
+@media (max-width: 600px) {
+    .row {
+        flex-direction: column;
+    }
+
+    .buttons {
+        flex-direction: column;
+    }
+}

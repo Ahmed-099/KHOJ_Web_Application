@@ -1,0 +1,46 @@
+﻿@{
+    ViewData["Title"] = "Login";
+    Layout = "~/Views/Shared/_LayoutHeader.cshtml";
+}
+
+<link rel="stylesheet" href="~/css/LoginAndSignup.css" asp-append-version="true">
+
+<body>
+    <main>
+        <div class="containers">
+            <div class="login form">
+                <header>Login</header>
+                @{
+                    <div>
+                        @if (ViewBag.Error != null)
+                        {
+                            <span style="color:red;">@ViewBag.Error</span>
+                        }
+                    </div>
+                    <div>
+                        @if (TempData["Signup"] != null)
+                        {
+                            <span style="color:green;">@TempData["Signup"]</span>
+                        }
+                    </div>
+                }
+                <form asp-controller="Account" asp-action="Login" method="post">
+                    <div>
+                        <label>Email:</label>
+                        <input type="email" name="email" required />
+                    </div>
+                    <div>
+                        <label>Password:</label>
+                        <input type="password" name="password" required />
+                    </div>
+                    <div>
+                        <input type="submit" value="Login" class="button">
+                    </div>
+                </form>
+                <div class="signup">
+                    <span class="signup">Don't have an account?<a asp-action="Signup">Sign up here</a></span>
+                </div>
+            </div>
+        </div>
+    </main>
+</body>

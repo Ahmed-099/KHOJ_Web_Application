@@ -1,0 +1,181 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = MissingPersonIdentificationSystem
+build_property.RootNamespace = MissingPersonIdentificationSystem
+build_property.ProjectDir = D:\New folder\Ahmed\.net core projects\MissingPersonIdentificationSystem\MissingPersonIdentificationSystem\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = D:\New folder\Ahmed\.net core projects\MissingPersonIdentificationSystem\MissingPersonIdentificationSystem
+build_property._RazorSourceGeneratorDebug = 
+build_property.EffectiveAnalysisLevelStyle = 6.0
+build_property.EnableCodeStyleSeverity = 
+
+[D:/New folder/Ahmed/.net core projects/MissingPersonIdentificationSystem/MissingPersonIdentificationSystem/Views/AccountAdmin/AdminProfile.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudEFkbWluXEFkbWluUHJvZmlsZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/New folder/Ahmed/.net core projects/MissingPersonIdentificationSystem/MissingPersonIdentificationSystem/Views/AccountAdmin/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudEFkbWluXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/New folder/Ahmed/.net core projects/MissingPersonIdentificationSystem/MissingPersonIdentificationSystem/Views/AccountAdmin/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudEFkbWluXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/New folder/Ahmed/.net core projects/MissingPersonIdentificationSystem/MissingPersonIdentificationSystem/Views/AccountAdmin/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudEFkbWluXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/New folder/Ahmed/.net core projects/MissingPersonIdentificationSystem/MissingPersonIdentificationSystem/Views/AccountAdmin/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudEFkbWluXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/New folder/Ahmed/.net core projects/MissingPersonIdentificationSystem/MissingPersonIdentificationSystem/Views/AccountAdmin/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudEFkbWluXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/New folder/Ahmed/.net core projects/MissingPersonIdentificationSystem/MissingPersonIdentificationSystem/Views/Account/AdminLogin.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxBZG1pbkxvZ2luLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/New folder/Ahmed/.net core projects/MissingPersonIdentificationSystem/MissingPersonIdentificationSystem/Views/Account/Login.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxMb2dpbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/New folder/Ahmed/.net core projects/MissingPersonIdentificationSystem/MissingPersonIdentificationSystem/Views/Account/Signup.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxTaWdudXAuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/New folder/Ahmed/.net core projects/MissingPersonIdentificationSystem/MissingPersonIdentificationSystem/Views/FamilyMembers/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRmFtaWx5TWVtYmVyc1xEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/New folder/Ahmed/.net core projects/MissingPersonIdentificationSystem/MissingPersonIdentificationSystem/Views/FamilyMembers/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRmFtaWx5TWVtYmVyc1xEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/New folder/Ahmed/.net core projects/MissingPersonIdentificationSystem/MissingPersonIdentificationSystem/Views/FamilyMembers/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRmFtaWx5TWVtYmVyc1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/New folder/Ahmed/.net core projects/MissingPersonIdentificationSystem/MissingPersonIdentificationSystem/Views/Finders/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRmluZGVyc1xEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/New folder/Ahmed/.net core projects/MissingPersonIdentificationSystem/MissingPersonIdentificationSystem/Views/Finders/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRmluZGVyc1xEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/New folder/Ahmed/.net core projects/MissingPersonIdentificationSystem/MissingPersonIdentificationSystem/Views/Finders/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRmluZGVyc1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/New folder/Ahmed/.net core projects/MissingPersonIdentificationSystem/MissingPersonIdentificationSystem/Views/FoundPersons/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRm91bmRQZXJzb25zXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/New folder/Ahmed/.net core projects/MissingPersonIdentificationSystem/MissingPersonIdentificationSystem/Views/FoundPersons/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRm91bmRQZXJzb25zXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/New folder/Ahmed/.net core projects/MissingPersonIdentificationSystem/MissingPersonIdentificationSystem/Views/FoundPersons/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRm91bmRQZXJzb25zXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/New folder/Ahmed/.net core projects/MissingPersonIdentificationSystem/MissingPersonIdentificationSystem/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/New folder/Ahmed/.net core projects/MissingPersonIdentificationSystem/MissingPersonIdentificationSystem/Views/MissingPersons/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWlzc2luZ1BlcnNvbnNcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/New folder/Ahmed/.net core projects/MissingPersonIdentificationSystem/MissingPersonIdentificationSystem/Views/MissingPersons/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWlzc2luZ1BlcnNvbnNcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/New folder/Ahmed/.net core projects/MissingPersonIdentificationSystem/MissingPersonIdentificationSystem/Views/MissingPersons/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWlzc2luZ1BlcnNvbnNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/New folder/Ahmed/.net core projects/MissingPersonIdentificationSystem/MissingPersonIdentificationSystem/Views/Report/DeleteFoundPerson.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVwb3J0XERlbGV0ZUZvdW5kUGVyc29uLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/New folder/Ahmed/.net core projects/MissingPersonIdentificationSystem/MissingPersonIdentificationSystem/Views/Report/DeleteMissingPerson.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVwb3J0XERlbGV0ZU1pc3NpbmdQZXJzb24uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/New folder/Ahmed/.net core projects/MissingPersonIdentificationSystem/MissingPersonIdentificationSystem/Views/Report/EditFoundPerson.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVwb3J0XEVkaXRGb3VuZFBlcnNvbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/New folder/Ahmed/.net core projects/MissingPersonIdentificationSystem/MissingPersonIdentificationSystem/Views/Report/EditMissingPerson.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVwb3J0XEVkaXRNaXNzaW5nUGVyc29uLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/New folder/Ahmed/.net core projects/MissingPersonIdentificationSystem/MissingPersonIdentificationSystem/Views/Report/ReportFoundPerson.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVwb3J0XFJlcG9ydEZvdW5kUGVyc29uLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/New folder/Ahmed/.net core projects/MissingPersonIdentificationSystem/MissingPersonIdentificationSystem/Views/Report/ReportMissingPerson.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVwb3J0XFJlcG9ydE1pc3NpbmdQZXJzb24uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/New folder/Ahmed/.net core projects/MissingPersonIdentificationSystem/MissingPersonIdentificationSystem/Views/Report/ReportSuccess.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVwb3J0XFJlcG9ydFN1Y2Nlc3MuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/New folder/Ahmed/.net core projects/MissingPersonIdentificationSystem/MissingPersonIdentificationSystem/Views/Search/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2VhcmNoXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/New folder/Ahmed/.net core projects/MissingPersonIdentificationSystem/MissingPersonIdentificationSystem/Views/Search/Result.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2VhcmNoXFJlc3VsdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/New folder/Ahmed/.net core projects/MissingPersonIdentificationSystem/MissingPersonIdentificationSystem/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/New folder/Ahmed/.net core projects/MissingPersonIdentificationSystem/MissingPersonIdentificationSystem/Views/Shared/_FoundPersonPartialView.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9Gb3VuZFBlcnNvblBhcnRpYWxWaWV3LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/New folder/Ahmed/.net core projects/MissingPersonIdentificationSystem/MissingPersonIdentificationSystem/Views/Shared/_LayoutAdmin.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXRBZG1pbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/New folder/Ahmed/.net core projects/MissingPersonIdentificationSystem/MissingPersonIdentificationSystem/Views/Shared/_LayoutHeader.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXRIZWFkZXIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/New folder/Ahmed/.net core projects/MissingPersonIdentificationSystem/MissingPersonIdentificationSystem/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/New folder/Ahmed/.net core projects/MissingPersonIdentificationSystem/MissingPersonIdentificationSystem/Views/UsersProfile/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlcnNQcm9maWxlXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/New folder/Ahmed/.net core projects/MissingPersonIdentificationSystem/MissingPersonIdentificationSystem/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/New folder/Ahmed/.net core projects/MissingPersonIdentificationSystem/MissingPersonIdentificationSystem/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/New folder/Ahmed/.net core projects/MissingPersonIdentificationSystem/MissingPersonIdentificationSystem/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-jdejszvqsa

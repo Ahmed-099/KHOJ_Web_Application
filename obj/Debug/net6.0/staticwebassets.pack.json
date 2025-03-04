@@ -1,0 +1,425 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\New folder\\Ahmed\\.net core projects\\MissingPersonIdentificationSystem\\MissingPersonIdentificationSystem\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\MissingPersonIdentificationSystem.bundle.scp.css",
+      "PackagePath": "staticwebassets\\MissingPersonIdentificationSystem.2rcjc7vkqw.bundle.scp.css"
+    },
+    {
+      "Id": "D:\\New folder\\Ahmed\\.net core projects\\MissingPersonIdentificationSystem\\MissingPersonIdentificationSystem\\wwwroot\\css\\Admin.css",
+      "PackagePath": "staticwebassets\\css\\Admin.css"
+    },
+    {
+      "Id": "D:\\New folder\\Ahmed\\.net core projects\\MissingPersonIdentificationSystem\\MissingPersonIdentificationSystem\\wwwroot\\css\\LayoutHeader.css",
+      "PackagePath": "staticwebassets\\css\\LayoutHeader.css"
+    },
+    {
+      "Id": "D:\\New folder\\Ahmed\\.net core projects\\MissingPersonIdentificationSystem\\MissingPersonIdentificationSystem\\wwwroot\\css\\LoginAndSignup.css",
+      "PackagePath": "staticwebassets\\css\\LoginAndSignup.css"
+    },
+    {
+      "Id": "D:\\New folder\\Ahmed\\.net core projects\\MissingPersonIdentificationSystem\\MissingPersonIdentificationSystem\\wwwroot\\css\\ReportFoundPerson.css",
+      "PackagePath": "staticwebassets\\css\\ReportFoundPerson.css"
+    },
+    {
+      "Id": "D:\\New folder\\Ahmed\\.net core projects\\MissingPersonIdentificationSystem\\MissingPersonIdentificationSystem\\wwwroot\\css\\ReportMissingPerson.css",
+      "PackagePath": "staticwebassets\\css\\ReportMissingPerson.css"
+    },
+    {
+      "Id": "D:\\New folder\\Ahmed\\.net core projects\\MissingPersonIdentificationSystem\\MissingPersonIdentificationSystem\\wwwroot\\css\\Result.css",
+      "PackagePath": "staticwebassets\\css\\Result.css"
+    },
+    {
+      "Id": "D:\\New folder\\Ahmed\\.net core projects\\MissingPersonIdentificationSystem\\MissingPersonIdentificationSystem\\wwwroot\\css\\UserProfile.css",
+      "PackagePath": "staticwebassets\\css\\UserProfile.css"
+    },
+    {
+      "Id": "D:\\New folder\\Ahmed\\.net core projects\\MissingPersonIdentificationSystem\\MissingPersonIdentificationSystem\\wwwroot\\css\\index.css",
+      "PackagePath": "staticwebassets\\css\\index.css"
+    },
+    {
+      "Id": "D:\\New folder\\Ahmed\\.net core projects\\MissingPersonIdentificationSystem\\MissingPersonIdentificationSystem\\wwwroot\\css\\search.css",
+      "PackagePath": "staticwebassets\\css\\search.css"
+    },
+    {
+      "Id": "D:\\New folder\\Ahmed\\.net core projects\\MissingPersonIdentificationSystem\\MissingPersonIdentificationSystem\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "D:\\New folder\\Ahmed\\.net core projects\\MissingPersonIdentificationSystem\\MissingPersonIdentificationSystem\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "D:\\New folder\\Ahmed\\.net core projects\\MissingPersonIdentificationSystem\\MissingPersonIdentificationSystem\\wwwroot\\img\\icon.png",
+      "PackagePath": "staticwebassets\\img\\icon.png"
+    },
+    {
+      "Id": "D:\\New folder\\Ahmed\\.net core projects\\MissingPersonIdentificationSystem\\MissingPersonIdentificationSystem\\wwwroot\\img\\missed.jpg",
+      "PackagePath": "staticwebassets\\img\\missed.jpg"
+    },
+    {
+      "Id": "D:\\New folder\\Ahmed\\.net core projects\\MissingPersonIdentificationSystem\\MissingPersonIdentificationSystem\\wwwroot\\js\\Admin.js",
+      "PackagePath": "staticwebassets\\js\\Admin.js"
+    },
+    {
+      "Id": "D:\\New folder\\Ahmed\\.net core projects\\MissingPersonIdentificationSystem\\MissingPersonIdentificationSystem\\wwwroot\\js\\ReportFoundPerson.js",
+      "PackagePath": "staticwebassets\\js\\ReportFoundPerson.js"
+    },
+    {
+      "Id": "D:\\New folder\\Ahmed\\.net core projects\\MissingPersonIdentificationSystem\\MissingPersonIdentificationSystem\\wwwroot\\js\\ReportMissingPerson.js",
+      "PackagePath": "staticwebassets\\js\\ReportMissingPerson.js"
+    },
+    {
+      "Id": "D:\\New folder\\Ahmed\\.net core projects\\MissingPersonIdentificationSystem\\MissingPersonIdentificationSystem\\wwwroot\\js\\search.js",
+      "PackagePath": "staticwebassets\\js\\search.js"
+    },
+    {
+      "Id": "D:\\New folder\\Ahmed\\.net core projects\\MissingPersonIdentificationSystem\\MissingPersonIdentificationSystem\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "D:\\New folder\\Ahmed\\.net core projects\\MissingPersonIdentificationSystem\\MissingPersonIdentificationSystem\\wwwroot\\known_faces\\Found_Amir_ahmedhingoro48@gmail.com_03218129252.jpg",
+      "PackagePath": "staticwebassets\\known_faces\\Found_Amir_ahmedhingoro48@gmail.com_03218129252.jpg"
+    },
+    {
+      "Id": "D:\\New folder\\Ahmed\\.net core projects\\MissingPersonIdentificationSystem\\MissingPersonIdentificationSystem\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "D:\\New folder\\Ahmed\\.net core projects\\MissingPersonIdentificationSystem\\MissingPersonIdentificationSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "D:\\New folder\\Ahmed\\.net core projects\\MissingPersonIdentificationSystem\\MissingPersonIdentificationSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "D:\\New folder\\Ahmed\\.net core projects\\MissingPersonIdentificationSystem\\MissingPersonIdentificationSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "D:\\New folder\\Ahmed\\.net core projects\\MissingPersonIdentificationSystem\\MissingPersonIdentificationSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "D:\\New folder\\Ahmed\\.net core projects\\MissingPersonIdentificationSystem\\MissingPersonIdentificationSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "D:\\New folder\\Ahmed\\.net core projects\\MissingPersonIdentificationSystem\\MissingPersonIdentificationSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "D:\\New folder\\Ahmed\\.net core projects\\MissingPersonIdentificationSystem\\MissingPersonIdentificationSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "D:\\New folder\\Ahmed\\.net core projects\\MissingPersonIdentificationSystem\\MissingPersonIdentificationSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\New folder\\Ahmed\\.net core projects\\MissingPersonIdentificationSystem\\MissingPersonIdentificationSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "D:\\New folder\\Ahmed\\.net core projects\\MissingPersonIdentificationSystem\\MissingPersonIdentificationSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "D:\\New folder\\Ahmed\\.net core projects\\MissingPersonIdentificationSystem\\MissingPersonIdentificationSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "D:\\New folder\\Ahmed\\.net core projects\\MissingPersonIdentificationSystem\\MissingPersonIdentificationSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "D:\\New folder\\Ahmed\\.net core projects\\MissingPersonIdentificationSystem\\MissingPersonIdentificationSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "D:\\New folder\\Ahmed\\.net core projects\\MissingPersonIdentificationSystem\\MissingPersonIdentificationSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "D:\\New folder\\Ahmed\\.net core projects\\MissingPersonIdentificationSystem\\MissingPersonIdentificationSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "D:\\New folder\\Ahmed\\.net core projects\\MissingPersonIdentificationSystem\\MissingPersonIdentificationSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\New folder\\Ahmed\\.net core projects\\MissingPersonIdentificationSystem\\MissingPersonIdentificationSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "D:\\New folder\\Ahmed\\.net core projects\\MissingPersonIdentificationSystem\\MissingPersonIdentificationSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "D:\\New folder\\Ahmed\\.net core projects\\MissingPersonIdentificationSystem\\MissingPersonIdentificationSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "D:\\New folder\\Ahmed\\.net core projects\\MissingPersonIdentificationSystem\\MissingPersonIdentificationSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "D:\\New folder\\Ahmed\\.net core projects\\MissingPersonIdentificationSystem\\MissingPersonIdentificationSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "D:\\New folder\\Ahmed\\.net core projects\\MissingPersonIdentificationSystem\\MissingPersonIdentificationSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "D:\\New folder\\Ahmed\\.net core projects\\MissingPersonIdentificationSystem\\MissingPersonIdentificationSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "D:\\New folder\\Ahmed\\.net core projects\\MissingPersonIdentificationSystem\\MissingPersonIdentificationSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\New folder\\Ahmed\\.net core projects\\MissingPersonIdentificationSystem\\MissingPersonIdentificationSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "D:\\New folder\\Ahmed\\.net core projects\\MissingPersonIdentificationSystem\\MissingPersonIdentificationSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "D:\\New folder\\Ahmed\\.net core projects\\MissingPersonIdentificationSystem\\MissingPersonIdentificationSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\New folder\\Ahmed\\.net core projects\\MissingPersonIdentificationSystem\\MissingPersonIdentificationSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "D:\\New folder\\Ahmed\\.net core projects\\MissingPersonIdentificationSystem\\MissingPersonIdentificationSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "D:\\New folder\\Ahmed\\.net core projects\\MissingPersonIdentificationSystem\\MissingPersonIdentificationSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "D:\\New folder\\Ahmed\\.net core projects\\MissingPersonIdentificationSystem\\MissingPersonIdentificationSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "D:\\New folder\\Ahmed\\.net core projects\\MissingPersonIdentificationSystem\\MissingPersonIdentificationSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\New folder\\Ahmed\\.net core projects\\MissingPersonIdentificationSystem\\MissingPersonIdentificationSystem\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "D:\\New folder\\Ahmed\\.net core projects\\MissingPersonIdentificationSystem\\MissingPersonIdentificationSystem\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "D:\\New folder\\Ahmed\\.net core projects\\MissingPersonIdentificationSystem\\MissingPersonIdentificationSystem\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "D:\\New folder\\Ahmed\\.net core projects\\MissingPersonIdentificationSystem\\MissingPersonIdentificationSystem\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "D:\\New folder\\Ahmed\\.net core projects\\MissingPersonIdentificationSystem\\MissingPersonIdentificationSystem\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "D:\\New folder\\Ahmed\\.net core projects\\MissingPersonIdentificationSystem\\MissingPersonIdentificationSystem\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "D:\\New folder\\Ahmed\\.net core projects\\MissingPersonIdentificationSystem\\MissingPersonIdentificationSystem\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "D:\\New folder\\Ahmed\\.net core projects\\MissingPersonIdentificationSystem\\MissingPersonIdentificationSystem\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "D:\\New folder\\Ahmed\\.net core projects\\MissingPersonIdentificationSystem\\MissingPersonIdentificationSystem\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "D:\\New folder\\Ahmed\\.net core projects\\MissingPersonIdentificationSystem\\MissingPersonIdentificationSystem\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "D:\\New folder\\Ahmed\\.net core projects\\MissingPersonIdentificationSystem\\MissingPersonIdentificationSystem\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "D:\\New folder\\Ahmed\\.net core projects\\MissingPersonIdentificationSystem\\MissingPersonIdentificationSystem\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "D:\\New folder\\Ahmed\\.net core projects\\MissingPersonIdentificationSystem\\MissingPersonIdentificationSystem\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\New folder\\Ahmed\\.net core projects\\MissingPersonIdentificationSystem\\MissingPersonIdentificationSystem\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "D:\\New folder\\Ahmed\\.net core projects\\MissingPersonIdentificationSystem\\MissingPersonIdentificationSystem\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "D:\\New folder\\Ahmed\\.net core projects\\MissingPersonIdentificationSystem\\MissingPersonIdentificationSystem\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "D:\\New folder\\Ahmed\\.net core projects\\MissingPersonIdentificationSystem\\MissingPersonIdentificationSystem\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "D:\\New folder\\Ahmed\\.net core projects\\MissingPersonIdentificationSystem\\MissingPersonIdentificationSystem\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "D:\\New folder\\Ahmed\\.net core projects\\MissingPersonIdentificationSystem\\MissingPersonIdentificationSystem\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "D:\\New folder\\Ahmed\\.net core projects\\MissingPersonIdentificationSystem\\MissingPersonIdentificationSystem\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "D:\\New folder\\Ahmed\\.net core projects\\MissingPersonIdentificationSystem\\MissingPersonIdentificationSystem\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\New folder\\Ahmed\\.net core projects\\MissingPersonIdentificationSystem\\MissingPersonIdentificationSystem\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "D:\\New folder\\Ahmed\\.net core projects\\MissingPersonIdentificationSystem\\MissingPersonIdentificationSystem\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "D:\\New folder\\Ahmed\\.net core projects\\MissingPersonIdentificationSystem\\MissingPersonIdentificationSystem\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "D:\\New folder\\Ahmed\\.net core projects\\MissingPersonIdentificationSystem\\MissingPersonIdentificationSystem\\wwwroot\\temp\\076244ba-67b7-4fca-b4f6-eeb37da33502_Salman Khan.jpg",
+      "PackagePath": "staticwebassets\\temp\\076244ba-67b7-4fca-b4f6-eeb37da33502_Salman Khan.jpg"
+    },
+    {
+      "Id": "D:\\New folder\\Ahmed\\.net core projects\\MissingPersonIdentificationSystem\\MissingPersonIdentificationSystem\\wwwroot\\temp\\24c7c659-297c-466b-ac56-e852296774d1_Akshay.jpg",
+      "PackagePath": "staticwebassets\\temp\\24c7c659-297c-466b-ac56-e852296774d1_Akshay.jpg"
+    },
+    {
+      "Id": "D:\\New folder\\Ahmed\\.net core projects\\MissingPersonIdentificationSystem\\MissingPersonIdentificationSystem\\wwwroot\\temp\\24f22806-19f0-4382-b2ab-85ec2b5f3ec2_ShahRukh.jpg",
+      "PackagePath": "staticwebassets\\temp\\24f22806-19f0-4382-b2ab-85ec2b5f3ec2_ShahRukh.jpg"
+    },
+    {
+      "Id": "D:\\New folder\\Ahmed\\.net core projects\\MissingPersonIdentificationSystem\\MissingPersonIdentificationSystem\\wwwroot\\temp\\27139a85-3956-454d-860c-a95c805f765d_Salman Khan.jpg",
+      "PackagePath": "staticwebassets\\temp\\27139a85-3956-454d-860c-a95c805f765d_Salman Khan.jpg"
+    },
+    {
+      "Id": "D:\\New folder\\Ahmed\\.net core projects\\MissingPersonIdentificationSystem\\MissingPersonIdentificationSystem\\wwwroot\\temp\\29f146fa-cc1a-4119-a772-8165720bf778_Salman Khan.jpg",
+      "PackagePath": "staticwebassets\\temp\\29f146fa-cc1a-4119-a772-8165720bf778_Salman Khan.jpg"
+    },
+    {
+      "Id": "D:\\New folder\\Ahmed\\.net core projects\\MissingPersonIdentificationSystem\\MissingPersonIdentificationSystem\\wwwroot\\temp\\342cf289-7dd1-4939-9466-1a13c713ed8e_Salman Khan.jpg",
+      "PackagePath": "staticwebassets\\temp\\342cf289-7dd1-4939-9466-1a13c713ed8e_Salman Khan.jpg"
+    },
+    {
+      "Id": "D:\\New folder\\Ahmed\\.net core projects\\MissingPersonIdentificationSystem\\MissingPersonIdentificationSystem\\wwwroot\\temp\\3a53c99b-f4d3-4d06-8b28-9d89651f81d9_Akshay.jpg",
+      "PackagePath": "staticwebassets\\temp\\3a53c99b-f4d3-4d06-8b28-9d89651f81d9_Akshay.jpg"
+    },
+    {
+      "Id": "D:\\New folder\\Ahmed\\.net core projects\\MissingPersonIdentificationSystem\\MissingPersonIdentificationSystem\\wwwroot\\temp\\3a8d8aed-c9fd-4be4-937f-86c705681127_ShahRukh.jpg",
+      "PackagePath": "staticwebassets\\temp\\3a8d8aed-c9fd-4be4-937f-86c705681127_ShahRukh.jpg"
+    },
+    {
+      "Id": "D:\\New folder\\Ahmed\\.net core projects\\MissingPersonIdentificationSystem\\MissingPersonIdentificationSystem\\wwwroot\\temp\\44f6a572-6736-4487-b1a5-1e5c94ec39ac_Salman Khan.jpg",
+      "PackagePath": "staticwebassets\\temp\\44f6a572-6736-4487-b1a5-1e5c94ec39ac_Salman Khan.jpg"
+    },
+    {
+      "Id": "D:\\New folder\\Ahmed\\.net core projects\\MissingPersonIdentificationSystem\\MissingPersonIdentificationSystem\\wwwroot\\temp\\56a8b981-d5da-43e1-a67b-94ca1c46cb1e_Salman Khan.jpg",
+      "PackagePath": "staticwebassets\\temp\\56a8b981-d5da-43e1-a67b-94ca1c46cb1e_Salman Khan.jpg"
+    },
+    {
+      "Id": "D:\\New folder\\Ahmed\\.net core projects\\MissingPersonIdentificationSystem\\MissingPersonIdentificationSystem\\wwwroot\\temp\\5ea59104-66f6-42eb-ba30-e1564949cce6_Salman Khan.jpg",
+      "PackagePath": "staticwebassets\\temp\\5ea59104-66f6-42eb-ba30-e1564949cce6_Salman Khan.jpg"
+    },
+    {
+      "Id": "D:\\New folder\\Ahmed\\.net core projects\\MissingPersonIdentificationSystem\\MissingPersonIdentificationSystem\\wwwroot\\temp\\6be95c21-8b50-4b3d-ba60-647bbc8480a6_Salman Khan.jpg",
+      "PackagePath": "staticwebassets\\temp\\6be95c21-8b50-4b3d-ba60-647bbc8480a6_Salman Khan.jpg"
+    },
+    {
+      "Id": "D:\\New folder\\Ahmed\\.net core projects\\MissingPersonIdentificationSystem\\MissingPersonIdentificationSystem\\wwwroot\\temp\\8e493064-48e7-436a-8807-9999101f62e0_ShahRukh.jpg",
+      "PackagePath": "staticwebassets\\temp\\8e493064-48e7-436a-8807-9999101f62e0_ShahRukh.jpg"
+    },
+    {
+      "Id": "D:\\New folder\\Ahmed\\.net core projects\\MissingPersonIdentificationSystem\\MissingPersonIdentificationSystem\\wwwroot\\temp\\902c4e66-071f-4fb0-bdc3-955b6e8027ca_ShahRukh.jpg",
+      "PackagePath": "staticwebassets\\temp\\902c4e66-071f-4fb0-bdc3-955b6e8027ca_ShahRukh.jpg"
+    },
+    {
+      "Id": "D:\\New folder\\Ahmed\\.net core projects\\MissingPersonIdentificationSystem\\MissingPersonIdentificationSystem\\wwwroot\\temp\\94ea2f4a-b7d4-48f1-a408-f9bfc6901f59_Akshay Kumar.jpg",
+      "PackagePath": "staticwebassets\\temp\\94ea2f4a-b7d4-48f1-a408-f9bfc6901f59_Akshay Kumar.jpg"
+    },
+    {
+      "Id": "D:\\New folder\\Ahmed\\.net core projects\\MissingPersonIdentificationSystem\\MissingPersonIdentificationSystem\\wwwroot\\temp\\b1b6ee36-28ac-43a4-a8a1-c5d1ea95d631_Salman Khan.jpg",
+      "PackagePath": "staticwebassets\\temp\\b1b6ee36-28ac-43a4-a8a1-c5d1ea95d631_Salman Khan.jpg"
+    },
+    {
+      "Id": "D:\\New folder\\Ahmed\\.net core projects\\MissingPersonIdentificationSystem\\MissingPersonIdentificationSystem\\wwwroot\\temp\\cec3326e-8063-4c0f-8e2e-be47b65ca550_Salman Khan.jpg",
+      "PackagePath": "staticwebassets\\temp\\cec3326e-8063-4c0f-8e2e-be47b65ca550_Salman Khan.jpg"
+    },
+    {
+      "Id": "D:\\New folder\\Ahmed\\.net core projects\\MissingPersonIdentificationSystem\\MissingPersonIdentificationSystem\\wwwroot\\temp\\d99bda8c-3ce7-47b5-b63a-73b9a04cebf8_ShahRukh.jpg",
+      "PackagePath": "staticwebassets\\temp\\d99bda8c-3ce7-47b5-b63a-73b9a04cebf8_ShahRukh.jpg"
+    },
+    {
+      "Id": "D:\\New folder\\Ahmed\\.net core projects\\MissingPersonIdentificationSystem\\MissingPersonIdentificationSystem\\wwwroot\\temp\\da0a6004-cab2-4669-ac4a-ec229bd724d2_Salman Khan.jpg",
+      "PackagePath": "staticwebassets\\temp\\da0a6004-cab2-4669-ac4a-ec229bd724d2_Salman Khan.jpg"
+    },
+    {
+      "Id": "D:\\New folder\\Ahmed\\.net core projects\\MissingPersonIdentificationSystem\\MissingPersonIdentificationSystem\\wwwroot\\temp\\e410bb51-538a-4bc8-8e21-c19ddb5b4f24_Salman Khan.jpg",
+      "PackagePath": "staticwebassets\\temp\\e410bb51-538a-4bc8-8e21-c19ddb5b4f24_Salman Khan.jpg"
+    },
+    {
+      "Id": "D:\\New folder\\Ahmed\\.net core projects\\MissingPersonIdentificationSystem\\MissingPersonIdentificationSystem\\wwwroot\\temp\\fabac1ae-0c40-4310-bcc3-3a265d059ba2_Salman Khan.jpg",
+      "PackagePath": "staticwebassets\\temp\\fabac1ae-0c40-4310-bcc3-3a265d059ba2_Salman Khan.jpg"
+    },
+    {
+      "Id": "D:\\New folder\\Ahmed\\.net core projects\\MissingPersonIdentificationSystem\\MissingPersonIdentificationSystem\\wwwroot\\temp\\fd0cb512-0e95-4b58-9d28-be7777f45243_Amir.jpg",
+      "PackagePath": "staticwebassets\\temp\\fd0cb512-0e95-4b58-9d28-be7777f45243_Amir.jpg"
+    },
+    {
+      "Id": "D:\\New folder\\Ahmed\\.net core projects\\MissingPersonIdentificationSystem\\MissingPersonIdentificationSystem\\wwwroot\\uploads\\Found_Amir_ahmedhingoro48@gmail.com_03218129252.jpg",
+      "PackagePath": "staticwebassets\\uploads\\Found_Amir_ahmedhingoro48@gmail.com_03218129252.jpg"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.MissingPersonIdentificationSystem.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.MissingPersonIdentificationSystem.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.MissingPersonIdentificationSystem.props",
+      "PackagePath": "build\\MissingPersonIdentificationSystem.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.MissingPersonIdentificationSystem.props",
+      "PackagePath": "buildMultiTargeting\\MissingPersonIdentificationSystem.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.MissingPersonIdentificationSystem.props",
+      "PackagePath": "buildTransitive\\MissingPersonIdentificationSystem.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

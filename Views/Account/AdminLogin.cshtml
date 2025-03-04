@@ -1,0 +1,34 @@
+﻿@model MissingPersonIdentificationSystem.Models.AdminLogin;
+@{
+    ViewData["Title"] = "AdminLogin";
+    Layout = "~/Views/Shared/_LayoutHeader.cshtml";
+}
+
+<link rel="stylesheet" href="~/css/LoginAndSignup.css" asp-append-version="true">
+
+<body>
+    <main>
+        <div class="containers">
+            <div class="login form">
+                <header>Admin</header>
+                @{
+                    if (TempData["AdminLoginFailed"] != null)
+                    {
+                        <p style="color:Red;">@TempData["AdminLoginFailed"]</p>
+                    }
+                }
+                <form asp-controller="Account" asp-action="AdminLogin" method="post">
+                    <span asp-validation-for="Name" style="color:red;"></span>
+                    <label asp-for="Name">Name:</label>
+                    <input asp-for="Name">
+                    <span asp-validation-for="Password" style="color:red;"></span>
+                    <label asp-for="Password">Password:</label>
+                    <input asp-for="Password">
+                    <input type="submit" value="Login" class="button">
+                </form>
+            </div>
+        </div>
+    </main>
+</body>
+
+

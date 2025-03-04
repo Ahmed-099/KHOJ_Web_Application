@@ -1,0 +1,88 @@
+﻿@model MissingPersonIdentificationSystem.Services.RecognitionResult
+@{
+    ViewData["Title"] = "Search Result";
+}
+
+<link rel="stylesheet" href="~/css/Result.css" asp-append-version="true">
+<main>
+    <div class="report-box">
+        <h2>Recognition Result</h2>
+        @if (Model.IsMatchFound)
+        {
+            @if (!string.IsNullOrEmpty(Model.FoundPersonName))
+            {
+                <h3>Found Person Report (Finder's Data)</h3>
+                <div class="data-item">
+                    <strong>Found Person Name</strong>
+                    <p>@Model.FoundPersonName</p>
+                </div>
+                <div class="data-item">
+                    <strong>Finder Email</strong>
+                    <p>@Model.FinderEmail</p>
+                </div>
+                <div class="data-item">
+                    <strong>Finder Phone</strong>
+                    <p>@Model.FinderPhone</p>
+                </div>
+                @if (!string.IsNullOrEmpty(Model.PhotoPath))
+                {
+                    <img src="@Url.Content(Model.PhotoPath)" alt="Found Report Image" style="max-height:200px; margin-top:10px;" />
+                }
+
+            }
+            else if (!string.IsNullOrEmpty(Model.MissingPersonName))
+            {
+                <h3>Missing Person Report (Family Member's Data)</h3>
+                <div class="data-item">
+                    <strong>Missing Person Name</strong>
+                    <p>@Model.MissingPersonName</p>
+                </div>
+                <div class="data-item">
+                    <strong>Family Member Email</strong>
+                    <p>@Model.FamilyMemberEmail</p>
+                </div>
+                <div class="data-item">
+                    <strong>Family Member Phone</strong>
+                    <p>@Model.FamilyMemberPhone</p>
+                </div>
+                @if (!string.IsNullOrEmpty(Model.PhotoPath))
+                {
+                    <img src="@Url.Content(Model.PhotoPath)" alt="Missing Report Image" style="max-height:200px; margin-top:10px;" />
+                }
+            }
+        }
+        else
+        {
+            <p class="no-match">No match found. Please report if not already reported.</p>
+        }
+        @if (ViewBag.Error != null)
+        {
+            <p style="color:red;">@ViewBag.Error</p>
+        }
+        <a asp-controller="Home" asp-action="Index" type="button" class="btn btn-primary">Return to Home</a>
+    </div>
+</main>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
