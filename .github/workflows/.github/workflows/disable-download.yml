@@ -1,0 +1,9 @@
+name: Disable Download
+on:
+  push:
+jobs:
+  disable-download:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Prevent Download
+        run: echo "Download is disabled"
